@@ -1,0 +1,28 @@
+
+        body {
+            background: lightblue;
+            font-family: Arial;
+        }
+
+        h1 {
+            color: darkblue;
+            font-size: 30px;
+            text-align: center;
+        }
+
+        table {
+            margin: auto;
+            background: white;
+            padding: 20px;
+        }
+
+        td {
+            padding: 8px;
+            color: darkgreen;
+            font-size: 16px;
+        }
+
+        input, select, textarea {
+            background: lightyellow;
+            padding: 5px;
+        }
